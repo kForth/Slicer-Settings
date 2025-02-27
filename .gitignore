@@ -1,5 +1,7 @@
 cache/
+shapes/
 snapshots/
+vendor/
 
 PrusaSlicerGcodeViewer.ini
 ArchiveRepositoryManifest.json
