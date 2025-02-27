@@ -3,6 +3,7 @@ shapes/
 snapshots/
 vendor/
 
-PrusaSlicerGcodeViewer.ini
 ArchiveRepositoryManifest.json
+PrusaSlicer.ini
+PrusaSlicerGcodeViewer.ini
 *.bak
