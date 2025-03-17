@@ -1,4 +1,10 @@
 cache/
+physical_printer/
+shapes/
+snapshots/
+vendor/
 
 ArchiveRepositoryManifest.json
+PrusaSlicer.ini
+PrusaSlicerGcodeViewer.ini
 *.bak
